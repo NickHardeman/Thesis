@@ -1,0 +1,24 @@
+<THRESHOLD>
+    <val_0>55.250000</val_0>
+</THRESHOLD>
+<B_BLUR>
+    <val_0>0.000000</val_0>
+</B_BLUR>
+<B_LEARN_BG>
+    <val_0>0.000000</val_0>
+</B_LEARN_BG>
+<N_DILATIONS>
+    <val_0>12.222222</val_0>
+</N_DILATIONS>
+<N_EROSION>
+    <val_0>6.111111</val_0>
+</N_EROSION>
+<MIN_BLOB_SIZE>
+    <val_0>22528.000000</val_0>
+</MIN_BLOB_SIZE>
+<MAX_BLOB_SIZE>
+    <val_0>74240.000000</val_0>
+</MAX_BLOB_SIZE>
+<N_BLOBS_TO_FIND>
+    <val_0>5.333333</val_0>
+</N_BLOBS_TO_FIND>
