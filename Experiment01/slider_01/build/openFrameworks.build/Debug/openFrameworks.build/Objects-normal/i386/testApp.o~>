@@ -1,0 +1,2 @@
+/Applications/of_preRelease_v0.06_xcode_FAT/apps/thesis/slider_01/src/testApp.cpp: In member function 'virtual void testApp::setup()':
+/Applications/of_preRelease_v0.06_xcode_FAT/apps/thesis/slider_01/src/testApp.cpp:16: error: 'class ofSlider' has no member named 'addEventListeners'

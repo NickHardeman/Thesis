@@ -1,0 +1,3 @@
+/Applications/of_preRelease_v0.06_xcode_FAT/apps/thesis/tick_01/../../../addons/ofxVectorMath/src/ofxVec3f.cpp: In member function 'ofxVec3f ofxVec3f::getRotated(float, float, float) const':
+/Applications/of_preRelease_v0.06_xcode_FAT/apps/thesis/tick_01/../../../addons/ofxVectorMath/src/ofxVec3f.cpp:316: error: 'e' was not declared in this scope
+/Applications/of_preRelease_v0.06_xcode_FAT/apps/thesis/tick_01/../../../addons/ofxVectorMath/src/ofxVec3f.cpp:316: error: 'd' was not declared in this scope

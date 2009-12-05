@@ -1,0 +1,198 @@
+// !$*UTF8*$!
+{
+	2E5A8C8010588F010011C6A3 /* Squid.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {656, 884}}";
+			sepNavSelRange = "{336, 0}";
+			sepNavVisRange = "{287, 778}";
+		};
+	};
+	2E5A8C8110588F010011C6A3 /* Squid.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {817, 3133}}";
+			sepNavSelRange = "{1203, 0}";
+			sepNavVisRange = "{0, 984}";
+		};
+	};
+	B95B5DBC105D61C70065C22A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4B69E1E0A3A1BDC003C02F2 /* testApp.cpp */;
+		name = "testApp.cpp: 11";
+		rLen = 0;
+		rLoc = 208;
+		rType = 0;
+		vrLen = 1093;
+		vrLoc = 0;
+	};
+	B95B5DBD105D61C70065C22A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4B69E1F0A3A1BDC003C02F2 /* testApp.h */;
+		name = "testApp.h: 8";
+		rLen = 0;
+		rLoc = 78;
+		rType = 0;
+		vrLen = 486;
+		vrLoc = 0;
+	};
+	B9C4340E105CC08F00EC19A9 /* openFrameworks */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = openFrameworks;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	B9C43430105CC0AE00EC19A9 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	B9C43431105CC0AE00EC19A9 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	B9C43481105CC1B200EC19A9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4B69E1D0A3A1BDC003C02F2 /* main.cpp */;
+		name = "main.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 414;
+		vrLoc = 0;
+	};
+	B9DE8815105EB20D00285FA4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2E5A8C8010588F010011C6A3 /* Squid.h */;
+		name = "Squid.h: 18";
+		rLen = 0;
+		rLoc = 336;
+		rType = 0;
+		vrLen = 778;
+		vrLoc = 287;
+	};
+	B9DE8816105EB20D00285FA4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2E5A8C8110588F010011C6A3 /* Squid.cpp */;
+		name = "Squid.cpp: 64";
+		rLen = 0;
+		rLoc = 1203;
+		rType = 0;
+		vrLen = 984;
+		vrLoc = 0;
+	};
+	B9DE8817105EB20D00285FA4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2E5A8C8110588F010011C6A3 /* Squid.cpp */;
+		name = "Squid.cpp: 64";
+		rLen = 0;
+		rLoc = 1203;
+		rType = 0;
+		vrLen = 984;
+		vrLoc = 0;
+	};
+	E4B69B4C0A3A1720003C02F2 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = B9C4340E105CC08F00EC19A9 /* openFrameworks */;
+		activeSDKPreference = macosx10.5;
+		activeTarget = E4B69B5A0A3A1756003C02F2 /* openFrameworks */;
+		addToTargets = (
+			E4B69B5A0A3A1756003C02F2 /* openFrameworks */,
+		);
+		codeSenseManager = B9C43431105CC0AE00EC19A9 /* Code sense */;
+		executables = (
+			B9C4340E105CC08F00EC19A9 /* openFrameworks */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					478,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 274640863;
+			PBXWorkspaceStateSaveDate = 274640863;
+		};
+		perUserProjectItems = {
+			B95B5DBC105D61C70065C22A /* PBXTextBookmark */ = B95B5DBC105D61C70065C22A /* PBXTextBookmark */;
+			B95B5DBD105D61C70065C22A /* PBXTextBookmark */ = B95B5DBD105D61C70065C22A /* PBXTextBookmark */;
+			B9C43481105CC1B200EC19A9 /* PBXTextBookmark */ = B9C43481105CC1B200EC19A9 /* PBXTextBookmark */;
+			B9DE8815105EB20D00285FA4 /* PBXTextBookmark */ = B9DE8815105EB20D00285FA4 /* PBXTextBookmark */;
+			B9DE8816105EB20D00285FA4 /* PBXTextBookmark */ = B9DE8816105EB20D00285FA4 /* PBXTextBookmark */;
+			B9DE8817105EB20D00285FA4 /* PBXTextBookmark */ = B9DE8817105EB20D00285FA4 /* PBXTextBookmark */;
+		};
+		sourceControlManager = B9C43430105CC0AE00EC19A9 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	E4B69B5A0A3A1756003C02F2 /* openFrameworks */ = {
+		activeExec = 0;
+		executables = (
+			B9C4340E105CC08F00EC19A9 /* openFrameworks */,
+		);
+	};
+	E4B69E1D0A3A1BDC003C02F2 /* main.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {663, 714}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 414}";
+		};
+	};
+	E4B69E1E0A3A1BDC003C02F2 /* testApp.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {656, 819}}";
+			sepNavSelRange = "{208, 0}";
+			sepNavVisRange = "{0, 1093}";
+		};
+	};
+	E4B69E1F0A3A1BDC003C02F2 /* testApp.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {656, 687}}";
+			sepNavSelRange = "{78, 0}";
+			sepNavVisRange = "{0, 486}";
+		};
+	};
+}
