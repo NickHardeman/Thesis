@@ -1,0 +1,39 @@
+<THRESHOLD>
+    <val_0>55.250000</val_0>
+</THRESHOLD>
+<B_BLUR>
+    <val_0>0.000000</val_0>
+</B_BLUR>
+<B_LEARN_BG>
+    <val_0>0.000000</val_0>
+</B_LEARN_BG>
+<N_DILATIONS>
+    <val_0>3.333333</val_0>
+</N_DILATIONS>
+<N_EROSION>
+    <val_0>3.111111</val_0>
+</N_EROSION>
+<MIN_BLOB_SIZE>
+    <val_0>4437.333496</val_0>
+</MIN_BLOB_SIZE>
+<MAX_BLOB_SIZE>
+    <val_0>28800.000000</val_0>
+</MAX_BLOB_SIZE>
+<N_BLOBS_TO_FIND>
+    <val_0>5.750000</val_0>
+</N_BLOBS_TO_FIND>
+<MIN_MOTION_BLOB_SIZE>
+    <val_0>2389.333496</val_0>
+</MIN_MOTION_BLOB_SIZE>
+<MAX_MOTION_BLOB_SIZE>
+    <val_0>21546.666016</val_0>
+</MAX_MOTION_BLOB_SIZE>
+<N_MOTION_BLOBS_TO_FIND>
+    <val_0>7.916667</val_0>
+</N_MOTION_BLOBS_TO_FIND>
+<B_DRAW_CONTOUR>
+    <val_0>1.000000</val_0>
+</B_DRAW_CONTOUR>
+<B_DRAW_CENTROID>
+    <val_0>1.000000</val_0>
+</B_DRAW_CENTROID>
