@@ -70,6 +70,7 @@ class testApp : public ofBaseApp{
 		Boolean					bDrawContour;
 		Boolean					bDrawCentroid;
 		Boolean					bDrawVirus;
+		Boolean					bDrawParticles;
 	
 		float					WALL_PADDING;
 		VirusBase				virus;

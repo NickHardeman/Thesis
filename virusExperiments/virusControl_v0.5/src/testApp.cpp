@@ -106,6 +106,7 @@ void testApp::setup(){
 	bDrawContour = true;
 	bDrawCentroid = true;
 	bDrawVirus = false;
+	bDrawParticles = false;
 	
 }
 
@@ -238,6 +239,7 @@ void testApp::update(){
 		contourParticles.clear();
 		
 		if (contourFinder.nBlobs > 0) {
+			bDrawParticles = true;
 			float scaleX = (float) ofGetWidth() / (float) videoDiffImage.width;
 			float scaleY = (float) ofGetHeight() / (float) videoDiffImage.height;
 			for (int i = 0; i < contourFinder.blobs[0].nPts; i += 4) {
@@ -365,10 +367,12 @@ void testApp::draw(){
 	
 	//particle stuff
 	if (!bDrawVirus) {
-		ofFill();
-		ofSetColor(0x000000);
-		for (int i = 0; i < particles.size(); i++){
-			particles[i].draw();
+		if (bDrawParticles) {
+			ofFill();
+			ofSetColor(0x000000);
+			for (int i = 0; i < particles.size(); i++){
+				particles[i].draw();
+			}
 		}
 	}
 	
